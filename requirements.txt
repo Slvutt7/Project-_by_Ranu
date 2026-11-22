@@ -1,0 +1,6 @@
+# Phase 4 / P0 foundation uses only the Python standard library (3.9+).
+# Added later, in Phase 5 (OCR):
+#   opencv-python
+#   pytesseract
+#   Pillow
+# Tesseract itself is a separate program install, not a pip package.
